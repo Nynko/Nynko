@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 🪁 Fpv drone
 - 📸 Photography / Filmaking - not much anymore though
 - 🏔️ Outside world is fun once in a while
-- 📚 Keep learning, keep improving fundamentals, keep critical thinking
+- 📚 Learning, improving fundamentals, critical thinking

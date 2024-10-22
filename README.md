@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Open for jobs - _Currently working on a project that makes crypto **accessible**, **regulated** and **used**, with bank-grade user security_. The real people-focused alternative to traditional deposit banks.                    `2b83423d2ac5977cfa3066fa6f6140fd44763da3cd23cb28406aa18f9b083f9d`
+- 🔭 **Looking for jobs**
 - 🌱 I’m currently learning Zk, Cardano, Mina, Midnight
-- 👯 Although I am primarily looking for jobs, I am still open to collaborate on my project, especially if you are a technically-minded business person passionate about creating a better world while building a functional company.
+- 👯 Although I am primarily looking for jobs, I am still open to collaborate on projects, especially if you are a technically-minded business person passionate about creating a better world while building a functional company.
 - 📫 How to reach me: website, discord, email : pro /the_weird_a/ nicolasbeaudouin.com
 
 ## Some of my skills 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 **Looking for a job**
 - ⚡ I earned a prize on my first Hackathon at Encode London 2024.
-- 🌱 I’m currently improving my Rust, C++.
+- 🌱 I’m currently improving my Rust, C++, learning Go.
 - 👯 Although I am primarily looking for a stable job, I am still open to collaborate on projects, especially if you are a technically-minded business person passionate about creating a better world while building a functional company.
 - 📫 How to reach me: website, discord, email : pro /the_weird_a/ nicolasbeaudouin.com
 

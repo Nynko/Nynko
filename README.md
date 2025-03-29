@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 **Looking for a job**
+- 🔭 Working soon at Criteo and on DLTs/Blockchain ideas
 - ⚡ I earned a prize on my first Hackathon at Encode London 2024.
-- 🌱 I’m currently improving my Java, Rust, C++, learning Go.
-- 👯 Although I am primarily looking for a stable job, I am still open to collaborate on projects, especially if you are a technically-minded business person passionate about creating a better world while building a functional company.
+- 🌱 I’m currently improving my Rust, learning C#.
+- 👯 Although I am not looking for a job, I am still open to collaborate on projects ; )
 - 📫 How to reach me: website, discord, email : pro /the_weird_a/ nicolasbeaudouin.com
 
 ## Some of my skills 

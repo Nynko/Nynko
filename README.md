@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Working soon at Criteo and on DLTs/Blockchain ideas
+- 🔭 Working at Criteo and having hobbies projects on DLTs/Blockchain
 - ⚡ I earned a prize on my first Hackathon at Encode London 2024.
 - 🌱 I’m currently improving my Rust, learning C#.
 - 👯 Although I am not looking for a job, I am still open to collaborate on projects ; )

@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working at Criteo and having hobbies projects on DLTs/Blockchain
-- ⚡ I earned a prize on my first Hackathon at Encode London 2024.
-- 🌱 I’m currently improving my Rust, learning C#.
+- 🌱 I’m currently ~~improving my Rust,~~ focused on work and learning C# along the way.
 - 👯 Although I am not looking for a job, I am still open to collaborate on projects ; )
 - 📫 How to reach me: website, discord, email : pro /the_weird_a/ nicolasbeaudouin.com
 
